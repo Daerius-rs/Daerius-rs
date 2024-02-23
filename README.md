@@ -1,6 +1,6 @@
 ## <img src="https://github.com/Daerius-rs/Daerius-rs/blob/master/_resources/gifs/wave.gif" width="25px" height="25px" /> Hi there! 
 
-My name is Dmitry and I'm a backend software engineer. I'm from Russia, living in Armavir (Russia) and currently studying.
+My name is Dmitry and I'm a backend software engineer. I'm from Russia, living in Armavir (Russia) and currently work as a programmer.
 
 
 ### 🔧 Technologies & Tools
